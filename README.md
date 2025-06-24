@@ -20,11 +20,6 @@ This app allows users to:
 
 ---
 
-## 📸 Screenshot
-
-> *(Optional – add `screenshot.png` later)*  
-![App Screenshot](screenshot.png)
-
 ---
 
 ## 🛠 Tech Stack
